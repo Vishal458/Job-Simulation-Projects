@@ -49,5 +49,6 @@ print(timestamp[:-2])
 Python 3: Convert ISO 8601 to milliseconds
 --->> @stackoverflow - https://stackoverflow.com/questions/60442518/python-3-convert-iso-8601-to-milliseconds/60443033#60443033
 
---->> @Replit Overview - https://docs.replit.com/getting-started/intro-replit
+--->> @Replit Overview - https://docs.replit.com/getting-started/intro-replit  
+Solution - https://replit.com/@vishalmohali458/Task1-Solution
 
