@@ -1,0 +1,26 @@
+CEO-Focused Questions (Strategic, Operational, Financial) - 
+
+1> How are our core financial metrics—such as ROI, gross margin, and recurring revenue—performing across product categories and customer segments?  
+→ Helps evaluate financial health and scalability.
+
+2> What are the top-performing regions or locations in terms of sales volume and profitability, and are there clear geographic opportunities for expansion? 
+→ To help guide decisions on physical or marketing investment in specific areas.
+
+3> What is our current customer base growth rate, and how does that trend align with customer retention and LTV metrics?
+→ Supports strategic planning and growth prediction.
+
+4> Are we seeing consistent improvements in success metrics like - total active users and return purchase rates across regions, inefficiencies affecting order fulfillment, returns, or delivery times, or is performance concentrated in specific areas? 
+→ To ensure scalable and efficient growth.
+
+CMO-Focused Questions (Marketing, Customer Insights, Growth) - 
+
+1> Which marketing channels are driving the most conversions and highest (ROI) return on ad spend (ROAS), and how do these trends vary by demographic and how do CAC and conversion rates vary by channel and audience segment? → To optimize budget allocation and maximize impact.    
+
+2> What customer demographics (age, gender, location) show the highest engagement and conversion rates, and how can we personalize marketing efforts for each segment?
+→ To tailor messaging and increase marketing efficiency. 
+
+3> What is our average CAC-to-CLV ratio across key customer profiles, and where are we over- or under-investing in acquisition?
+→ Measures long-term profitability of marketing.
+
+4> What products or promotions have performed best in terms of customer acquisition and retention, and how can we replicate this success and Which customer success metrics (NPS, retention rate, churn) are most responsive to specific marketing efforts or touchpoints?
+→ To guide future campaigns and product strategies, Links brand experience to loyalty.
