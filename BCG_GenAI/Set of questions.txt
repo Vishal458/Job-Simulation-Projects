@@ -1,31 +1,17 @@
 total revenue?
-
 Net Income?
-
 sum of total assets?
-
 sum of total liabilities?
-
 cash flow from operating activities?
-
 revenue growth(%) ?
-
 net income growth(%) ?
-
 assets growth(%) ?
-
 liabilities growth(%) ?
-
 cash flow from operations growth(%) ?
-
 year by year average revenue growth rate(%)?
-
 year by year average net income growth rate(%)?
-
 year by year average assets growth rate(%)?
-
 year by year average liabilities growth rate(%)?
-
 year by year average cash flow from operations growth rate(%)?
 
 
