@@ -1,22 +1,3 @@
-Real Estate Investment Advisor Project Report-------------------------------------------
-
-This report summarizes:
-• Step 1: Data Cleaning
-• Step 2: EDA
-• Rule-based feature creation
-• Streamlit Dashboard Design
-
-Dataset:
-India Housing Prices (cleaned)
-
-Key Processes:
-• Duplicate removal
-• Missing value treatment
-• Numeric type conversion
-• Price_per_SqFt and Age_of_Property creation
-• Outlier detection using IQR
-• Trend analysis and heatmaps
-
 Problem Statement
 Develop a machine learning application to assist potential investors in making real estate decisions. The system should:
 1.	Classify whether a property is a "Good Investment" (Classification).
@@ -61,4 +42,6 @@ Approach
 ●	Add visual insights (e.g., location-wise heatmaps, trend charts)
 
 ●	Show model confidence scores & feature importance
+
+
 
